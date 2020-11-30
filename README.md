@@ -9,6 +9,6 @@ __Webscraped URL:__ [Wiki Page for NC](https://en.wikipedia.org/wiki/North_Carol
 
 __Collaborators:__
   - R. Brandon Miracle rbmiracle@my.waketech.edu
-  - student2
+  - Ismael Mercado Vazquez imercadovazquez@my.waketech.edu - Accepted
   - student3
   - student4
