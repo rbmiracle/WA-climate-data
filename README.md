@@ -11,4 +11,5 @@ __Collaborators:__
   - R. Brandon Miracle rbmiracle@my.waketech.edu
   - Eric Meehan
   - Ismael Mercado Vazquez imercadovazquez@my.waketech.edu - Accepted
-  - student4
+  - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
+  - Tristan McGregor
