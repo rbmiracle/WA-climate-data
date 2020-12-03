@@ -9,7 +9,7 @@ __Webscraped URL:__ [Wiki Page for NM](https://en.wikipedia.org/wiki/New_Mexico)
 
 __Collaborators:__
   - R. Brandon Miracle rbmiracle@my.waketech.edu
-  - Eric Meehan
+  - Eric Meehan eomeehan@my.waketech.edu - Accepted
   - Ismael Mercado Vazquez imercadovazquez@my.waketech.edu - Accepted
   - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
   - Tristan McGregor
