@@ -12,4 +12,4 @@ __Collaborators:__
   - Eric Meehan eomeehan@my.waketech.edu - Accepted
   - Ismael Mercado Vazquez imercadovazquez@my.waketech.edu - Accepted
   - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
-  - Tristan McGregor
+  - Tristan McGregor - tamcgregor@my.waketech.edu - Accepted
